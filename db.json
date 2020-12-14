@@ -1,6 +1,5 @@
- data(){
-    return{
-      "events": [
+{
+"events": [
         {
           "id":1,
           "category": "concert",
@@ -19,7 +18,5 @@
           "date": "July 4, 2021",
           "time": "09:00"
         }
-      ]
-
-    }
-  }
+]
+}

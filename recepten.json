@@ -49,7 +49,7 @@
         },
         {
           "id":5,
-          "image": "../assets/wortel.jpg"
+          "image": "../assets/wortel.jpg",
           "naam": "Wortel paprikasoep",
           "ingredienten": ["wortelen1 kg", "rode paprika 1", "aardappel 1", "ui 1", "verse gember (geraspt) 2cm", "groentebouillon 800ml", "room 100ml", "korianderzaad 1kl", "olijfolie", "peper", "zout"],
           "steps":[

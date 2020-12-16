@@ -2,7 +2,7 @@
  "recepten": [
         {
           "id":1,
-          "image": "../assets/tomaten.jpg",
+          "image": "tomaten.jpg",
           "naam": "Tomatensoep met uien en balsamico",
           "ingredienten": [ "tomaten 8", "uien 2", "witte balsamicoazijn 2el", "knoflook 2 teentjes", "wortelen 2", "tomatenpuree 2el", "groentebouillon (+ evt wat extra) 1l", "room 4el", "suiker 1 snuifje", "olijfolie 2el", "zout", "cayennepeper", "vers basilicum"],
           "steps":[
@@ -13,7 +13,7 @@
         },
         {
           "id":2,
-          "image": "../assets/courgette.jpg",
+          "image": "courgette.jpg",
           "naam": "Courgettesoep met zalmforel",
           "ingredienten": ["courgettes 2", "bloemige aardappel 200g", "ui 1", "knoflook 2 teentjes", "olijfolie 1el", "groentebouillon 600ml", "witte wijn 100ml", "room 100ml", "zure room 2el", "dille 2 takjes", "zalmforelfilet 100g", "nootmuskaat", "peper", "zout"],
           "steps":[
@@ -26,7 +26,7 @@
         },
         {
           "id":3,
-          "image": "../assets/pompoen.jpg",
+          "image": "pompoen.jpg",
           "naam": "Pompoensoep met croque-brochette",
           "ingredienten": ["wit brood (zonder korst) 8 sneetjes", "kaas 4 plakjes", "ham 4 plakjes", "pompoen (geschild, liefst butternut) 400g", "ui 1", "knoflook 1 teentje", "tomaat 1", "olijfolie", "groentebouillon 1l", "room 100ml", "peper", "nootmuskaat"],
           "steps":[
@@ -38,7 +38,7 @@
         },
         {
           "id":4,
-          "image": "../assets/bieten.jpg",
+          "image": "bieten.jpg",
           "naam": "Rode bietensoep met feta",
           "ingredienten": ["rode bieten (geschild, in blokjes) 400g", "groentebouillon 800ml", "tomatenblokjes (blik) 200g", "citroen (sap)½", "feta (in blokjes) 100g", "verse oregano (verse)", "peper (vers gemalen)", "zout"],
           "steps":[
@@ -49,7 +49,7 @@
         },
         {
           "id":5,
-          "image": "../assets/wortel.jpg",
+          "image": "wortel.jpg",
           "naam": "Wortel paprikasoep",
           "ingredienten": ["wortelen1 kg", "rode paprika 1", "aardappel 1", "ui 1", "verse gember (geraspt) 2cm", "groentebouillon 800ml", "room 100ml", "korianderzaad 1kl", "olijfolie", "peper", "zout"],
           "steps":[
@@ -61,7 +61,7 @@
         },
         {
           "id":6,
-          "image": "../assets/uien.jpg",
+          "image": "uien.jpg",
           "naam": "Uiensoep",
           "ingredienten": ["bloemige aardappel 300g", "gerookt spek (in een stuk) 100g", "uien 1kg", "boter", "vleesbouillon 1.5l", "kruidentuiltje (tijm, laurier, peterseliestengels)", "peper", "zout"],
           "steps":[
